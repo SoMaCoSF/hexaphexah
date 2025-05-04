@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 
 const HEX_COLORS = ["tech", "science", "med", "law", "finance", "other"];
